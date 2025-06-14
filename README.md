@@ -14,10 +14,11 @@ Relationship between distance from home and attrition
 
 Use Cases:
 Enables HR teams to make data-informed decisions about hiring and retention
+
 Helps identify factors contributing to high attrition
+
 Can be extended into dashboards or machine learning applications
 
 Dataset Source:
-
 [Kaggle - IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
